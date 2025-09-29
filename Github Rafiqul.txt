@@ -1,0 +1,5 @@
+untuk belajar Github harus mengetahui harus mengetahui beberapa terminilogi berikut:
+1. Repository
+2. Commit
+3. Branch
+4. Marge
