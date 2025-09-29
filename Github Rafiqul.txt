@@ -4,4 +4,4 @@ untuk belajar Github harus mengetahui harus mengetahui beberapa terminilogi beri
 3. Branch
 4. Marge
 5. Clone
-6. Konflik
+
